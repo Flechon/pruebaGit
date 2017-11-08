@@ -1,6 +1,11 @@
 public Class Prueba{
   public static void main(Strings[] args) {
+<<<<<<< HEAD
     Strings caquita = new Strings;
+=======
+    int mivariable;
+>>>>>>> f1ec932e15ee3bce6b98e6620fd531c94c2b69c8
 
+    System.out.println("hola");
   }
 }
