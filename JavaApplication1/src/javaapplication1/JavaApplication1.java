@@ -9,6 +9,6 @@ public class JavaApplication1 {
       long numero2=4;
       
       numero1 = numero2*58;
-      
+        System.out.println(numero1);
     }
 }
