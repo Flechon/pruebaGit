@@ -1,5 +1,6 @@
 public Class Prueba{
   public static void main(Strings[] args) {
+    Strings caquita = new Strings;
 
   }
 }
