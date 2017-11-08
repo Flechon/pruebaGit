@@ -6,11 +6,7 @@ public class JavaApplication1 {
         
       int mientero;
       String caca;
+      int popo;
       
     }
-}
-        
-
-    }
-
 }
