@@ -1,5 +1,7 @@
 public Class Prueba{
   public static void main(Strings[] args) {
+    int mivariable;
 
+    System.out.println("hola");
   }
 }
