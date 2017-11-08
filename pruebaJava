@@ -2,10 +2,9 @@ public Class Prueba{
   public static void main(Strings[] args) {
 
     Strings caquita = new Strings;
-<<<<<<< HEAD
+
     int miotravariable;
-=======
->>>>>>> 5e313967a400304eecc69d8452067728aa6098f6
+
     int mivariable;
 
 
