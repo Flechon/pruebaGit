@@ -6,5 +6,4 @@ public class JavaApplication1 {
         
       int mientero;
     }
-    
 }
